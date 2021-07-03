@@ -1,0 +1,55 @@
+.container{
+    margin-bottom: 90px;
+    border-radius: 10px;
+    overflow: hidden;
+}
+.n-logo{
+    width: 70%;
+}
+.top-slider{
+    background-image: url(images/bg-1.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 70px;
+}
+.caro-text-col p{
+    width: 390px;
+}
+.buy-btn{
+    background-color: black;
+    color: white;
+    padding: 10px 15px;
+    border: none;
+    border-radius: 5px;
+}
+.cd-header{
+    padding-bottom: 15px;
+}
+.cd-header a{
+    color: orangered;
+    font-size: 14px;
+    font-weight: 700;
+}
+.card{
+    padding: 20px 25px;
+    box-shadow: 5px 5px 20px lightgrey;
+}
+.card ph-img{
+    width: 275px;
+}
+.card-body h5{
+    text-align: center;
+}
+.card-body p{
+    text-align: center;
+    color: rgb(133, 128, 128);
+}
+.col{
+    margin-bottom: 20px;
+    width: 33%;
+}
+.cd-footer{
+    background-color: white;
+    text-align: center;
+    border-top: none;
+}
